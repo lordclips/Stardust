@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.fruitsofaeonia.stardust;
 
 import java.util.List;
 import java.util.Set;
